@@ -1,0 +1,23 @@
+.paragrap_pertama {
+  background-color: orange;
+  font-family: Arial, sans;
+  font-size: 13px;
+}
+.paragrap_Kedua {
+  background-color: blue;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  color: aliceblue;
+}
+.paragrap_Ketiga {
+  background-color: azure;
+  font-family: cursive;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.808);
+}
+.paragrap_Keempat {
+  background-color: rgba(0, 0, 0, 0.212);
+  font-family: fantasy;
+  font-size: 18px;
+  color: black;
+}
